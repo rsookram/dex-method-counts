@@ -11,7 +11,7 @@ Go which is a:
 ## Install
 
 ```
-$ go get -u github.com/rsookram/dex-method-counts
+$ go get -u github.com/rsookram/dex-method-counts/cmd/dex-method-counts
 ```
 
 
